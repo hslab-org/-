@@ -1,3 +1,4 @@
+<pre>
 自分が使う為のバイナリーオプション自動トレードツールをここに置く予定
 blockchainのAPI使ってsecondstradeに自動送金する仕組み。
 
@@ -12,3 +13,4 @@ secondstradeがなくなったら、
 投資は自己責任で。
 もしこれで利益が出たら何パーセントかビットコイン恵んでください。
 1F5BoxPCgP6QZ62ZJArJfBs955uxadj4FA
+</pre>
